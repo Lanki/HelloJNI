@@ -1,3 +1,4 @@
+###################
 public class HelloJNI {
 	native void printHello();
 	native void printString(String str);
